@@ -1,0 +1,306 @@
+Scenario - 
+Logfile written - 05/11/2018 14:39:42
+
+Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+1	Picture	toysoldier	166	0	1	77827	1	0	next	incorrect	2
+1	Response	1	77897	77731	0
+2	Picture	garden	77993	0	1	192564	1	0	next	other	0
+2	Response	3	270330	192336	0
+3	Picture	smile	270558	0	1	43324	1	0	next	other	0
+3	Response	1	313745	43187	0
+4	Picture	toyrobot	313882	0	1	92317	1	0	next	incorrect	8
+4	Response	3	406132	92251	0
+5	Picture	garden	406198	0	1	95421	1	0	next	other	0
+5	Response	1	501256	95058	0
+6	Picture	smile	501619	0	1	39487	1	0	next	other	0
+6	Response	3	540965	39345	0
+7	Picture	koala	541106	0	1	34022	9	0	next	incorrect	14
+7	Response	1	575093	33986	0
+8	Picture	garden	575128	0	9	28552	9	0	next	other	0
+8	Response	1	603317	28189	0
+9	Picture	smile	603680	0	1	28491	1	0	next	other	0
+9	Response	3	632043	28362	0
+10	Picture	trombone	632171	0	1	99098	1	0	next	hit	20
+10	Response	2	731133	98962	0
+11	Picture	pomegranate	731269	0	1	43150	1	0	next	incorrect	22
+11	Response	1	774353	43084	0
+12	Picture	garden	774419	0	1	115961	1	0	next	other	0
+12	Response	3	890002	115583	0
+13	Picture	smile	890380	0	1	68813	1	0	next	other	0
+13	Response	3	959054	68674	0
+14	Picture	drumkit	959194	0	1	102918	1	0	next	incorrect	28
+14	Response	1	1062045	102852	0
+15	Picture	garden	1062112	0	1	30632	1	0	next	other	0
+15	Response	1	1092379	30268	0
+16	Picture	smile	1092744	0	1	26905	1	0	next	other	0
+16	Response	3	1119515	26771	0
+17	Picture	robe	1119649	0	1	43792	1	0	next	hit	34
+17	Response	2	1163307	43658	0
+18	Picture	iceskate	1163441	0	1	24794	1	0	next	incorrect	36
+18	Response	1	1188169	24728	0
+19	Picture	garden	1188236	0	1	45823	1	0	next	other	0
+19	Response	1	1233693	45458	0
+20	Picture	smile	1234058	0	1	21706	1	0	next	other	0
+20	Response	1	1255633	21574	0
+21	Picture	lizard	1255764	0	0	64865	1	0	next	hit	42
+21	Response	2	1320493	64729	0
+22	Picture	panflute	1320629	0	1	37913	1	0	next	hit	44
+22	Response	2	1358391	37763	0
+23	Picture	elephant	1358542	0	1	98217	1	0	next	incorrect	46
+23	Response	1	1456690	98149	0
+24	Picture	garden	1456759	0	1	33767	1	0	next	other	0
+24	Response	1	1490163	33403	0
+25	Picture	smile	1490526	0	1	24286	1	0	next	other	0
+25	Response	3	1514660	24134	0
+26	Picture	flamingo	1514812	0	1	27500	1	0	next	incorrect	52
+26	Response	1	1542245	27433	0
+27	Picture	garden	1542312	0	1	28836	1	0	next	other	0
+27	Response	3	1570950	28638	0
+28	Picture	smile	1571148	0	1	36804	1	0	next	other	0
+28	Response	3	1607824	36676	0
+29	Picture	xylophone	1607952	0	1	20306	1	0	next	incorrect	58
+29	Response	1	1628192	20240	0
+30	Picture	garden	1628258	0	1	16275	1	0	next	other	0
+30	Response	1	1644158	15900	0
+31	Picture	smile	1644533	0	1	29675	1	0	next	other	0
+31	Response	1	1674070	29536	0
+32	Picture	pineapple	1674208	0	1	24922	1	0	next	hit	64
+32	Response	2	1699002	24794	0
+33	Picture	ball	1699130	0	1	24039	1	0	next	incorrect	66
+33	Response	1	1723105	23975	0
+34	Picture	garden	1723169	0	1	27601	1	0	next	other	0
+34	Response	1	1750406	27237	0
+35	Picture	smile	1750770	0	1	14658	1	0	next	other	0
+35	Response	3	1765302	14532	0
+36	Picture	strawberry	1765428	0	1	64958	1	0	next	hit	72
+36	Response	2	1830268	64840	0
+37	Picture	goggles	1830386	0	1	13717	1	0	next	hit	74
+37	Response	2	1843978	13592	0
+38	Picture	hermetcrab	1844103	0	1	17174	1	0	next	incorrect	76
+38	Response	1	1861212	17109	0
+39	Picture	garden	1861277	0	1	47130	1	0	next	other	0
+39	Response	3	1908042	46764	0
+40	Picture	smile	1908408	0	1	20495	1	0	next	other	0
+40	Response	1	1928773	20365	0
+41	Picture	highheels	1928902	0	1	22360	1	0	next	incorrect	82
+41	Response	1	1951197	22294	0
+42	Picture	garden	1951262	0	1	13624	1	0	next	other	0
+42	Response	1	1964525	13263	0
+43	Picture	smile	1964887	0	1	10720	1	0	next	other	0
+43	Response	3	1975478	10591	0
+44	Picture	toykeys	1975606	0	1	20898	1	0	next	hit	88
+44	Response	2	1996388	20782	0
+45	Picture	plunger	1996504	0	1	12038	1	0	next	hit	90
+45	Response	2	2008411	11907	0
+46	Picture	drill	2008542	0	1	13115	1	0	next	incorrect	92
+46	Response	1	2021591	13049	0
+47	Picture	garden	2021657	0	1	34955	1	0	next	other	0
+47	Response	1	2056251	34594	0
+48	Picture	smile	2056611	0	1	36671	1	0	next	other	0
+48	Response	1	2093152	36541	0
+49	Picture	shorts	2093282	0	1	19013	1	0	next	incorrect	98
+49	Response	1	2112230	18947	0
+50	Picture	garden	2112296	0	1	30091	1	0	next	other	0
+50	Response	3	2142025	29729	0
+51	Picture	smile	2142387	0	1	19900	1	0	next	other	0
+51	Response	1	2162169	19782	0
+52	Picture	glasses2	2162286	0	1	104855	1	0	next	hit	104
+52	Response	2	2267014	104728	0
+53	Picture	chipmunk	2267142	0	1	20696	1	0	next	incorrect	106
+53	Response	1	2287773	20632	0
+54	Picture	garden	2287838	0	1	24240	1	0	next	other	0
+54	Response	1	2311705	23867	0
+55	Picture	smile	2312078	0	1	19697	1	0	next	other	0
+55	Response	1	2331646	19568	0
+56	Picture	whale	2331774	0	1	18697	1	0	next	hit	112
+56	Response	2	2350336	18562	0
+57	Picture	chicken	2350471	0	1	9670	1	0	next	hit	114
+57	Response	2	2360013	9541	0
+58	Picture	lego1	2360141	0	1	12650	1	0	next	incorrect	116
+58	Response	1	2372725	12583	0
+59	Picture	garden	2372791	0	1	15622	1	0	next	other	0
+59	Response	3	2388215	15423	0
+60	Picture	smile	2388414	0	1	33630	1	0	next	other	0
+60	Response	3	2421911	33497	0
+61	Picture	triangle	2422044	0	1	18458	1	0	next	hit	122
+61	Response	2	2440368	18324	0
+62	Picture	jenga	2440502	0	1	9738	1	0	next	hit	124
+62	Response	2	2450100	9598	0
+63	Picture	tennisball	2450240	0	1	17497	1	0	next	hit	126
+63	Response	2	2467611	17371	0
+64	Picture	gecko	2467737	0	1	12641	1	0	next	incorrect	128
+64	Response	1	2480310	12573	0
+65	Picture	garden	2480377	0	1	12281	1	0	next	other	0
+65	Response	1	2492294	11917	0
+66	Picture	smile	2492658	0	1	25732	1	0	next	other	0
+66	Response	3	2518245	25587	0
+67	Picture	cabbage	2518390	0	1	15651	1	0	next	hit	134
+67	Response	2	2533911	15521	0
+68	Picture	corn	2534041	0	1	78075	1	0	next	incorrect	136
+68	Response	1	2611948	77907	0
+69	Picture	garden	2612115	0	1	11721	1	0	next	other	0
+69	Response	1	2623474	11359	0
+70	Picture	smile	2623837	0	1	16980	1	0	next	other	0
+70	Response	1	2640685	16848	0
+71	Picture	frog	2640816	0	1	13262	1	0	next	hit	142
+71	Response	2	2653947	13130	0
+72	Picture	frenchhorn	2654078	0	1	16286	1	0	next	hit	144
+72	Response	2	2670234	16156	0
+73	Picture	beaver1	2670364	0	1	18802	1	0	next	incorrect	146
+73	Response	1	2689099	18735	0
+74	Picture	garden	2689166	0	1	12180	1	0	next	other	0
+74	Response	1	2700983	11817	0
+75	Picture	smile	2701346	0	1	14932	1	0	next	other	0
+75	Response	3	2716140	14794	0
+76	Picture	lion	2716278	0	1	19709	1	0	next	incorrect	152
+76	Response	1	2735921	19643	0
+77	Picture	garden	2735987	0	1	17841	1	0	next	other	0
+77	Response	3	2753465	17478	0
+78	Picture	smile	2753828	0	1	166499	1	0	next	other	0
+78	Response	1	2920196	166368	0
+79	Picture	goldfish	2920327	0	1	46125	1	0	next	hit	158
+79	Response	2	2966311	45984	0
+80	Picture	owl	2966452	0	1	20457	1	0	next	incorrect	160
+80	Response	1	2986843	20391	0
+81	Picture	garden	2986908	0	1	46560	1	0	next	other	0
+81	Response	3	3033105	46197	0
+82	Picture	smile	3033469	0	1	33146	1	0	next	other	0
+82	Response	3	3066484	33015	0
+83	Picture	bowtie	3066615	0	1	16166	1	0	next	hit	166
+83	Response	2	3082646	16032	0
+84	Picture	avocado	3082780	0	1	7943	1	0	next	hit	168
+84	Response	2	3090597	7817	0
+85	Picture	paintbrush	3090723	0	1	15576	1	0	next	hit	170
+85	Response	2	3106178	15455	0
+86	Picture	carrot	3106299	0	1	10318	1	0	next	hit	172
+86	Response	2	3116483	10185	0
+87	Picture	broccoli	3116616	0	1	11499	1	0	next	hit	174
+87	Response	2	3127980	11364	0
+88	Picture	mushroom	3128115	0	1	6248	1	0	next	hit	176
+88	Response	2	3134235	6120	0
+89	Picture	wrench	3134364	0	1	11730	1	0	next	incorrect	178
+89	Response	1	3146027	11664	0
+90	Picture	garden	3146093	0	1	23663	1	0	next	other	0
+90	Response	1	3169391	23298	0
+91	Picture	smile	3169756	0	1	23259	1	0	next	other	0
+91	Response	1	3192880	23124	0
+92	Picture	pig	3193016	0	1	9727	1	0	next	hit	184
+92	Response	2	3202607	9591	0
+93	Picture	slipper	3202743	0	1	12549	1	0	next	incorrect	186
+93	Response	1	3215226	12483	0
+94	Picture	garden	3215292	0	1	16132	1	0	next	other	0
+94	Response	3	3231058	15766	0
+95	Picture	smile	3231424	0	1	41753	1	0	next	other	0
+95	Response	1	3273040	41616	0
+96	Picture	kite	3273176	0	1	10192	1	0	next	hit	192
+96	Response	2	3283244	10068	0
+97	Picture	belt	3283368	0	1	12123	1	0	next	incorrect	194
+97	Response	1	3295425	12056	0
+98	Picture	garden	3295491	0	1	15165	1	0	next	other	0
+98	Response	3	3310292	14801	0
+99	Picture	smile	3310656	0	1	18487	1	0	next	other	0
+99	Response	3	3329023	18367	0
+100	Picture	pingpongracket	3329143	0	1	9054	1	0	next	hit	200
+100	Response	2	3338061	8918	0
+101	Picture	teddybear1	3338198	0	1	10930	1	0	next	incorrect	202
+101	Response	1	3349061	10864	0
+102	Picture	garden	3349127	0	1	12697	1	0	next	other	0
+102	Response	1	3361462	12335	0
+103	Picture	smile	3361824	0	1	8520	1	0	next	other	0
+103	Response	1	3370213	8389	0
+104	Picture	cardinal	3370344	0	1	29367	1	0	next	hit	208
+104	Response	2	3399577	29233	0
+105	Picture	dog	3399711	0	0	13754	1	0	next	incorrect	210
+105	Response	1	3413399	13688	0
+106	Picture	garden	3413465	0	1	18355	1	0	next	other	0
+106	Response	1	3431457	17992	0
+107	Picture	smile	3431821	0	1	12856	1	0	next	other	0
+107	Response	1	3444543	12723	0
+108	Picture	toytruck	3444676	0	1	36368	1	0	next	incorrect	216
+108	Response	1	3480978	36302	0
+109	Picture	garden	3481044	0	1	17994	1	0	next	other	0
+109	Response	3	3498674	17630	0
+110	Picture	smile	3499038	0	1	25970	1	0	next	other	0
+110	Response	1	3524862	25824	0
+111	Picture	eagle1	3525008	0	1	26567	1	0	next	hit	222
+111	Response	2	3551444	26436	0
+112	Picture	seal	3551575	0	1	9303	1	0	next	hit	224
+112	Response	2	3560745	9170	0
+113	Picture	stackingrings	3560878	0	1	9577	1	0	next	hit	226
+113	Response	2	3570331	9453	0
+114	Picture	toyambulance	3570455	0	1	9544	1	0	next	hit	228
+114	Response	2	3579875	9420	0
+115	Picture	marker	3579998	0	1	12495	1	0	next	incorrect	230
+115	Response	1	3592428	12430	0
+116	Picture	garden	3592493	0	1	13994	1	0	next	other	0
+116	Response	1	3606123	13629	0
+117	Picture	smile	3606487	0	1	9970	1	0	next	other	0
+117	Response	3	3616323	9836	0
+118	Picture	measuringtape	3616457	0	1	9391	1	0	next	hit	236
+118	Response	2	3625716	9259	0
+119	Picture	watch	3625848	0	1	344568	1	0	next	hit	238
+119	Response	2	3970284	344436	0
+120	Picture	toyboat	3970416	0	1	19251	1	0	next	incorrect	240
+120	Response	1	3989599	19183	0
+121	Picture	garden	3989666	0	1	15144	1	0	next	other	0
+121	Response	3	4004441	14775	0
+122	Picture	smile	4004810	0	1	14859	1	0	next	other	0
+122	Response	1	4019538	14727	0
+123	Picture	saxophone	4019670	0	1	32844	1	0	next	incorrect	246
+123	Response	1	4052447	32777	0
+124	Picture	garden	4052514	0	1	12432	1	0	next	other	0
+124	Response	1	4064586	12072	0
+125	Picture	smile	4064946	0	1	18044	1	0	next	other	0
+125	Response	3	4082868	17922	0
+126	Picture	paintroller	4082990	0	1	11505	1	0	next	hit	252
+126	Response	2	4094369	11379	0
+127	Picture	watermelon	4094495	0	1	10067	1	0	next	hit	254
+127	Response	2	4104443	9948	0
+128	Picture	baseball	4104563	0	1	11682	1	0	next	hit	256
+128	Response	2	4116110	11547	0
+129	Picture	jeans	4116245	0	1	43265	1	0	next	hit	258
+129	Response	2	4159385	43140	0
+130	Picture	cleats	4159510	0	1	7524	1	0	next	hit	260
+130	Response	2	4166903	7393	0
+131	Picture	bike	4167034	0	1	6437	1	0	next	hit	262
+131	Response	2	4173333	6299	0
+132	Picture	gorilla	4173470	0	1	12566	1	0	next	incorrect	264
+132	Response	1	4185969	12498	0
+133	Picture	garden	4186036	0	1	21117	1	0	next	other	0
+133	Response	1	4206955	20919	0
+134	Picture	smile	4207153	0	1	9250	1	0	next	other	0
+134	Response	3	4216281	9128	0
+135	Picture	boot2	4216403	0	1	10869	1	0	next	hit	270
+135	Response	2	4227138	10735	0
+136	Picture	tshirt1	4227271	0	1	11522	1	0	next	incorrect	272
+136	Response	1	4238727	11455	0
+137	Picture	garden	4238793	0	1	23885	1	0	next	other	0
+137	Response	3	4262308	23515	0
+138	Picture	smile	4262678	0	1	16056	1	0	next	other	0
+138	Response	3	4278598	15920	0
+139	Picture	hardhat	4278734	0	1	10965	1	0	next	hit	278
+139	Response	2	4289563	10829	0
+140	Picture	basketball	4289699	0	1	7548	1	0	next	hit	280
+140	Response	2	4297108	7409	0
+141	Picture	sock2	4297247	0	1	9793	1	0	next	incorrect	282
+141	Response	1	4306974	9727	0
+142	Picture	garden	4307040	0	1	12635	1	0	next	other	0
+142	Response	1	4319307	12267	0
+143	Picture	smile	4319675	0	1	98433	1	0	next	other	0
+143	Response	1	4417972	98298	0
+144	Picture	hedgehog	4418108	0	1	26967	1	0	next	incorrect	288
+144	Response	1	4445007	26900	0
+145	Picture	garden	4445075	0	1	11640	1	0	next	other	0
+145	Response	3	4456350	11276	0
+146	Picture	smile	4456715	0	1	15441	1	0	next	other	0
+146	Response	3	4472022	15307	0
+147	Picture	paintcan	4472157	0	1	9477	1	0	next	incorrect	294
+147	Response	3	4481568	9412	0
+148	Picture	garden	4481634	0	1	61687	1	0	next	other	0
+148	Response	1	4542957	61323	0
+149	Picture	smile	4543321	0	1	16891	1	0	next	other	0
+149	Response	3	4560086	16765	0
+150	Picture	banana1	4560212	0	1	33425	1	0	next	hit	300
+150	Response	2	4589196	28985	0
+

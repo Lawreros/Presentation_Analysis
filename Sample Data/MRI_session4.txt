@@ -1,0 +1,229 @@
+Scenario - Testrun
+Logfile written - 05/11/2018 14:04:10
+
+Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+1	Picture	cow	beach	ANIMACY	145187	144902	257	30077	258	0	next	other	0
+1	Pulse	30	145187	144902	1
+1	Response	1	158608	158323	1
+2	Pulse	30	165319	0	1
+2	Picture	maracas	garden	SELF	185291	19972	304	30124	305	0	next	other	0
+2	Pulse	30	185291	19972	1
+2	Response	1	200949	35630	1
+3	Pulse	30	205264	0	1
+3	Pulse	30	225236	19972	1
+3	Picture	fixation	NULL	NULL	225411	20147	1	167	2	0	next	other	0
+4	Pulse	30	245209	0	1
+4	Picture	plum	beach	SELF	265183	19974	214	30034	216	0	next	other	0
+4	Pulse	30	265183	19974	1
+4	Response	1	281320	36111	1
+5	Pulse	30	285315	0	1
+5	Picture	lettuce	garden	SELF	305288	19973	260	30080	262	0	next	other	0
+5	Pulse	30	305288	19973	1
+5	Response	1	320306	34991	1
+6	Pulse	30	325260	0	1
+6	Pulse	30	345233	19973	1
+6	Picture	turtle	garden	SELF	345364	20104	2	29989	3	0	next	other	0
+6	Response	1	357217	31957	1
+7	Pulse	30	365205	0	1
+7	Pulse	30	385178	19973	1
+7	Picture	shorts	beach	SELF	385349	20144	1	29988	2	0	next	other	0
+7	Response	1	400837	35632	1
+8	Pulse	30	405310	0	1
+8	Pulse	30	425284	19974	1
+8	Picture	fixation	NULL	NULL	425333	20023	1	167	2	0	next	other	0
+8	Pulse	30	445256	39946	1
+9	Pulse	30	465229	0	1
+9	Pulse	30	485201	19972	1
+9	Picture	plunger	beach	ANIMACY	485310	20081	1	29988	2	0	next	other	0
+10	Pulse	30	505174	0	1
+10	Response	2	505813	639	1
+10	Pulse	30	525307	20133	2
+10	Picture	chipmunk	garden	SELF	525461	20287	1	29988	2	0	next	other	0
+11	Pulse	30	545280	0	1
+11	Response	1	547357	2077	1
+11	Pulse	30	565252	19972	1
+11	Picture	grapefruit	garden	SELF	565279	19999	1	30155	2	0	next	other	0
+11	Response	1	580911	35631	1
+12	Pulse	30	585226	0	1
+12	Pulse	30	605198	19972	1
+12	Picture	fixation	NULL	NULL	605263	20037	1	167	2	0	next	other	0
+12	Pulse	30	625170	39944	1
+12	Pulse	30	645143	59917	1
+13	Pulse	30	665275	0	1
+13	Pulse	30	685249	19974	1
+13	Picture	beaver1	garden	ANIMACY	685398	20123	1	29989	2	0	next	other	0
+13	Response	1	697232	31957	1
+14	Pulse	30	705221	0	1
+14	Picture	lego1	beach	SELF	725194	19973	190	30177	191	0	next	other	0
+14	Pulse	30	725194	19973	1
+14	Response	1	738296	33075	1
+15	Pulse	30	745166	0	1
+15	Pulse	30	765139	19973	1
+15	Picture	paintbrush	beach	ANIMACY	765201	20035	1	29988	2	0	next	other	0
+15	Response	2	778721	33555	1
+16	Pulse	30	785271	0	1
+16	Pulse	30	805245	19974	1
+16	Picture	pickle	garden	ANIMACY	805352	20081	1	29988	2	0	next	other	0
+16	Response	1	821383	36112	1
+17	Pulse	30	825217	0	1
+17	Pulse	30	845190	19973	1
+17	Picture	handbell	beach	ANIMACY	845336	20119	1	29988	2	0	next	other	0
+17	Response	2	859411	34194	1
+18	Pulse	30	865162	0	1
+18	Pulse	30	885135	19973	1
+18	Picture	fixation	NULL	NULL	885154	19992	1	166	2	0	next	other	0
+19	Pulse	30	905268	0	1
+19	Pulse	30	925240	19972	1
+19	Picture	jacket1	garden	SELF	925305	20037	1	29988	2	0	next	other	0
+19	Response	1	940739	35471	1
+20	Pulse	30	945214	0	1
+21	Pulse	30	965187	0	1
+21	Picture	fixation	NULL	NULL	965289	102	1	167	2	0	next	other	0
+21	Pulse	30	985159	19972	1
+21	Picture	pomegranate	beach	ANIMACY	985281	20094	1	29989	2	0	next	other	0
+22	Pulse	30	1005131	0	1
+22	Response	2	1011362	6231	1
+23	Pulse	30	1025264	0	1
+23	Picture	fixation	NULL	NULL	1025432	168	1	167	2	0	next	other	0
+23	Pulse	30	1045236	19972	1
+23	Picture	tshirt1	garden	ANIMACY	1045258	19994	1	30155	2	0	next	other	0
+23	Response	2	1059777	34513	1
+24	Pulse	30	1065210	0	1
+24	Pulse	30	1085183	19973	1
+24	Picture	fixation	NULL	NULL	1085242	20032	1	167	2	0	next	other	0
+25	Pulse	30	1105155	0	1
+25	Pulse	30	1125128	19973	1
+25	Picture	pants1	beach	ANIMACY	1125227	20072	1	29988	2	0	next	other	0
+25	Response	2	1139029	33874	1
+26	Pulse	30	1145260	0	1
+26	Pulse	30	1165233	19973	1
+26	Picture	fixation	NULL	NULL	1165378	20118	1	166	2	0	next	other	0
+27	Pulse	30	1185205	0	1
+27	Pulse	30	1205179	19974	1
+27	Picture	tiger	beach	SELF	1205195	19990	2	30155	3	0	next	other	0
+27	Response	1	1221796	36591	1
+28	Pulse	30	1225151	0	1
+28	Pulse	30	1245124	19973	1
+28	Picture	bubbleblower	garden	ANIMACY	1245180	20029	1	29988	2	0	next	other	0
+28	Response	2	1259984	34833	1
+29	Pulse	30	1265256	0	1
+29	Pulse	30	1285229	19973	1
+29	Picture	bear	beach	SELF	1285331	20075	1	29988	2	0	next	other	0
+29	Response	1	1298331	33075	1
+30	Pulse	30	1305201	0	1
+30	Pulse	30	1325173	19972	1
+30	Picture	frisbee	garden	SELF	1325315	20114	1	29988	3	0	next	other	0
+30	Response	1	1337637	32436	1
+31	Pulse	30	1345147	0	1
+31	Pulse	30	1365119	19972	1
+31	Picture	fixation	NULL	NULL	1365300	20153	1	166	2	0	next	other	0
+31	Pulse	30	1385252	40105	1
+32	Pulse	30	1405224	0	1
+32	Pulse	30	1425197	19973	1
+32	Picture	scissors	beach	SELF	1425276	20052	1	29988	3	0	next	other	0
+33	Response	2	1445170	0	1
+33	Pulse	30	1445170	0	1
+34	Pulse	30	1465142	0	1
+34	Picture	fixation	NULL	NULL	1465261	119	1	166	2	0	next	other	0
+34	Pulse	30	1485116	19974	1
+34	Picture	lion	garden	ANIMACY	1485253	20111	1	29988	2	0	next	other	0
+34	Response	1	1504609	39467	1
+35	Pulse	30	1505248	0	1
+36	Pulse	30	1525221	0	1
+36	Picture	fixation	NULL	NULL	1525404	183	1	166	2	0	next	other	0
+36	Pulse	30	1545193	19972	1
+36	Picture	bongo	garden	ANIMACY	1545229	20008	1	29989	2	0	next	other	0
+36	Response	2	1559414	34193	1
+37	Pulse	30	1565166	0	1
+37	Pulse	30	1585138	19972	1
+37	Picture	axe	beach	ANIMACY	1585214	20048	1	29988	2	0	next	other	0
+37	Response	2	1599679	34513	1
+38	Pulse	30	1605112	0	1
+39	Pulse	30	1625244	0	1
+39	Picture	fixation	NULL	NULL	1625365	121	1	166	2	0	next	other	0
+39	Pulse	30	1645216	19972	1
+39	Picture	dog	beach	ANIMACY	1645357	20113	1	29988	2	0	next	other	0
+39	Response	1	1660235	34991	1
+40	Pulse	30	1665189	0	1
+40	Pulse	30	1685161	19972	1
+40	Picture	glasses2	garden	SELF	1685341	20152	1	29989	2	0	next	other	0
+40	Response	1	1703057	37868	1
+41	Pulse	30	1705134	0	1
+41	Pulse	30	1725106	19972	1
+41	Picture	fixation	NULL	NULL	1725159	20025	1	167	2	0	next	other	0
+41	Pulse	30	1745239	40105	1
+42	Pulse	30	1765211	0	1
+42	Pulse	30	1785185	19974	1
+42	Picture	accordion	garden	ANIMACY	1785302	20091	1	29989	2	0	next	other	0
+42	Response	2	1802921	37710	1
+43	Pulse	30	1805157	0	1
+44	Pulse	30	1825130	0	1
+44	Picture	fixation	NULL	NULL	1825287	157	1	166	2	0	next	other	0
+44	Pulse	30	1845102	19972	1
+44	Picture	tomato	garden	ANIMACY	1845279	20149	1	29988	2	0	next	other	0
+45	Response	2	1865075	0	1
+45	Pulse	30	1865075	0	1
+45	Pulse	30	1885207	20132	1
+45	Picture	marker	beach	ANIMACY	1885263	20188	1	29988	3	0	next	other	0
+45	Response	2	1895595	30520	1
+46	Pulse	30	1905181	0	1
+47	Pulse	30	1925154	0	1
+47	Picture	fixation	NULL	NULL	1925248	94	1	166	2	0	next	other	0
+47	Pulse	30	1945126	19972	1
+47	Picture	yoyo	beach	SELF	1945240	20086	1	29988	2	0	next	other	0
+47	Response	1	1962383	37229	1
+48	Pulse	30	1965099	0	1
+49	Pulse	30	1985072	0	1
+49	Picture	fixation	NULL	NULL	1985224	152	1	167	2	0	next	other	0
+49	Pulse	30	2005205	20133	1
+49	Picture	tape	garden	SELF	2005383	20311	1	29988	2	0	next	other	0
+50	Pulse	30	2025176	0	1
+50	Response	1	2027414	2238	1
+50	Pulse	30	2045150	19974	1
+50	Picture	fixation	NULL	NULL	2045201	20025	1	166	2	0	next	other	0
+50	Pulse	30	2065122	39946	1
+51	Pulse	30	2085095	0	1
+51	Pulse	30	2105067	19972	1
+51	Picture	sweetpotato	beach	SELF	2105177	20082	1	29989	2	0	next	other	0
+52	Pulse	30	2125200	0	1
+52	Response	1	2137504	12304	1
+52	Pulse	30	2145172	19972	1
+52	Picture	camel	garden	ANIMACY	2145328	20128	1	29989	2	0	next	other	0
+52	Response	1	2158914	33714	1
+53	Pulse	30	2165146	0	1
+53	Pulse	30	2185119	19973	1
+53	Picture	fixation	NULL	NULL	2185146	20000	1	167	2	0	next	other	0
+53	Pulse	30	2205091	39945	1
+54	Pulse	30	2225064	0	1
+54	Pulse	30	2245196	20132	1
+54	Picture	toysoldier	beach	SELF	2245289	20225	1	29989	2	0	next	other	0
+54	Response	1	2262772	37708	1
+55	Pulse	30	2265169	0	1
+56	Pulse	30	2285141	0	1
+56	Picture	fixation	NULL	NULL	2285274	133	1	166	2	0	next	other	0
+56	Pulse	30	2305115	19974	1
+56	Picture	apple	garden	SELF	2305266	20125	1	29988	2	0	next	other	0
+57	Pulse	30	2325087	0	1
+57	Response	1	2325247	160	1
+58	Pulse	30	2345060	0	1
+58	Picture	fixation	NULL	NULL	2345084	24	1	166	2	0	next	other	0
+58	Pulse	30	2365193	20133	1
+58	Picture	gecko	beach	ANIMACY	2365242	20182	3	29989	4	0	next	other	0
+58	Response	1	2377177	32117	1
+59	Pulse	30	2385165	0	1
+59	Pulse	30	2405139	19974	1
+59	Picture	rubberduck	garden	ANIMACY	2405227	20062	1	29988	2	0	next	other	0
+59	Response	2	2423833	38668	1
+60	Pulse	30	2425112	0	1
+60	Pulse	30	2445084	19972	1
+60	Picture	fixation	NULL	NULL	2445211	20099	1	167	2	0	next	other	0
+60	Pulse	30	2465056	39944	1
+61	Pulse	30	2485189	0	1
+61	Pulse	30	2505161	19972	1
+61	Picture	iceskate	beach	SELF	2505188	19999	1	30155	2	0	next	other	0
+61	Response	1	2518902	33713	1
+62	Pulse	30	2525134	0	1
+62	Pulse	30	2545106	19972	1
+62	Picture	fixation	NULL	NULL	2545172	20038	1	167	2	0	next	other	0
+
